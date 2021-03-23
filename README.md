@@ -8,23 +8,17 @@ Array ecample:
 ```
 $locations = array (
  array (
-  "postcode" => "2850",
-  "name" => "Aarons Pass",
-  "state_code" => "NSW",
+  "name_or_id" => "lokacija1",
   "lat" => "-32.86328",
   "lng" => "149.80375"
  ),
  array (
-  "postcode" => "6280",
-  "name" => "Abba River",
-  "state_code" => "WA",
+  "name_or_id" => "lokacija2",
   "lat" => "-33.68488",
   "lng" => "115.46334"
  ),
  array (
-  "postcode" => "6280",
-  "name" => "Abbey",
-  "state_code" => "WA",
+  "name_or_id" => "lokacija3",
   "lat" => "-33.66077",
   "lng" => "115.25863"
  )
