@@ -32,6 +32,6 @@ if (isset($_POST['locations']))
     }
 
     $closest = $locations[key($distances)];
-    echo $output;
+    echo $closest;
     //return $closest;
 }    
